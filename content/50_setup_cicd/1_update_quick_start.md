@@ -31,6 +31,7 @@ We will now update our app and setup a CodePipeline to deploy our changes automa
            
     ```bash
     cd ~/environment/quickstart-autodesk-forge/
+    git checkout develop
     git add -A
     git commit -m "Updated app to include a custom logo"
     git push

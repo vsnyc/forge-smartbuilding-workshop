@@ -18,8 +18,8 @@ weight = 20
     * Repository owner: your GitHub user name
     * OAuth2 token: your GitHub oauth token created in Step 4
     * Email: your email address
-    * ConfigBucket: your demo bucket created earlier, this value is saved in *au-demo-bucket.tx*
-    * CodeHostingBucket: your code hosting bucket created earlier, this value is saved in *au-demo-bucket.tx*
+    * ConfigBucket: your demo bucket created earlier, this value is saved in *au-demo-bucket.txt*
+    * CodeHostingBucket: your code hosting bucket created earlier, this value is saved in *au-demo-bucket.txt*
 {{% notice tip %}}
 <p>
 The launch link above launches a slightly modified version of the <a href="https://aws.amazon.com/quickstart/architecture/cicd-taskcat/" target="_blank" class="highlight">AWS CI/CD pipeline Quick Start</a>. We have taken the base Quick Start and added a couple of new stages as described earlier in <a href="/20_getting_started/3_cicd_architecture.html" class="highlight">CI/CD architecture</a> section. You can view the <a href="https://github.com/vsnyc/quickstart-taskcat-ci/" target="_blank" class="highlight">updated code</a> on GitHub.
