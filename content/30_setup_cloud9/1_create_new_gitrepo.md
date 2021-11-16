@@ -5,11 +5,15 @@ weight = 10
 +++
 
 {{% notice warning %}}
-You must have a GitHub account to fork an exisitng repo. If you do not have an account create one by following these instructions [Signing up for a new GitHub Account](https://help.github.com/articles/signing-up-for-a-new-github-account/)
+<p>
+You must have a GitHub account to fork an exisitng repo. If you do not have an account create one by following these instructions <a href="https://help.github.com/articles/signing-up-for-a-new-github-account/" target="_blank">Signing up for a new GitHub Account</a>
+</p>
 {{% /notice %}}
 
 {{% notice tip %}}
+<p>
 Make sure you are logged into your GitHub account
+</p>
 {{% /notice %}}
 
 Each AWS Quick Start consists of a GitHub repo where all the contents of the Quick Start live.

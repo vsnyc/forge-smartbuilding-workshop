@@ -5,11 +5,15 @@ weight = 2
 +++
 
 {{% notice tip %}}
-**If you are doing this as part of a workshop using the Event Engine, you can skip this page. We will be providing an AWS account for you to use.**
+<p><strong>
+If you are doing this as part of a workshop using the Event Engine, you can skip this page. We will be providing an AWS account for you to use.
+</strong></p>
 {{% /notice %}}
 
 {{% notice tip %}}
+<p>
 If you already have an AWS account, and have IAM Administrator access, you can skip this page.
+</p>
 {{% /notice %}}
 
 {{% notice warning %}}

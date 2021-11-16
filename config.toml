@@ -1,4 +1,4 @@
-baseURL = "https://workshop.quickstart.awspartner.com"
+baseURL = "http://forge-devcon-workshop.s3-website.us-east-2.amazonaws.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "AWS Quick Start Workshop"
@@ -10,6 +10,8 @@ pygmentsCodeFences = true
 #pygmentsCodeFencesGuessSyntax = true
 #pygmentsStyle = "monokai"
 
+[markup.goldmark.renderer]
+unsafe= true
 
 [blackfriday]
 hrefTargetBlank = true
@@ -24,6 +26,8 @@ disableAssetsBusting = false
 disableLanguageSwitchingButton = true
 disableShortcutsTitle=true
 
+[markup]
+  defaultMarkdownHandler = "blackfriday"
 
 # [menu]
 #   [[menu.main]]

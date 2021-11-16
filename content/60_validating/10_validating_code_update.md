@@ -8,5 +8,5 @@ weight = 10
 ![arch](/images/prod-stack-update-progress.png)
 2. In about 5 minutes, the stack will reach *UPDATE_COMPLETE* status.
 ![arch](/images/prod-stack-update-complete.png)
-3. Go to the `ForgeAppURL` again and verify that your application now shows a dashboard for your models. (Tested in Chrome browser)
-![arch](/images/updated-app-with-dashboard.png?height=60%&width=60%)
+3. Go to the `ForgeAppURL` again and verify that your application now shows a custom logo for the Forge app (Tested in Chrome browser)
+![arch](/images/updated-app-with-custom-logo.png?height=60%&width=60%)
