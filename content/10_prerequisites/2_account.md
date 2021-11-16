@@ -17,7 +17,9 @@ If you already have an AWS account, and have IAM Administrator access, you can s
 {{% /notice %}}
 
 {{% notice warning %}}
+<p>
 Your account must have the ability to create new IAM roles and scope other IAM permissions.
+</p>
 {{% /notice %}}
 
 1. **If you don't already have an AWS account with Administrator access**: [create

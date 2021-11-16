@@ -21,7 +21,9 @@ weight = 20
     * ConfigBucket: your demo bucket created earlier, this value is saved in *au-demo-bucket.tx*
     * CodeHostingBucket: your code hosting bucket created earlier, this value is saved in *au-demo-bucket.tx*
 {{% notice tip %}}
-The launch link above launches a slightly modified version of the [AWS CI/CD pipeline Quick Start](https://aws.amazon.com/quickstart/architecture/cicd-taskcat/). We have taken the base Quick Start and added a couple of new stages as described earlier in [CI/CD architecture] ( {{< relref "20_getting_started/3_cicd_architecture" >}}) section. You can view the [updated code](https://github.com/vsnyc/quickstart-taskcat-ci/) on GitHub.
+<p>
+The launch link above launches a slightly modified version of the <a href="https://aws.amazon.com/quickstart/architecture/cicd-taskcat/" target="_blank" class="highlight">AWS CI/CD pipeline Quick Start</a>. We have taken the base Quick Start and added a couple of new stages as described earlier in <a href="/20_getting_started/3_cicd_architecture.html" class="highlight">CI/CD architecture</a> section. You can view the <a href="https://github.com/vsnyc/quickstart-taskcat-ci/" target="_blank" class="highlight">updated code</a> on GitHub.
+</p>
 {{% /notice %}}
 
 3. Select both the check boxes in the Capabilities section and choose **Create Stack**. After the `Forge-App-CICD` stack is created, it will automatically execute the CodePipeline. 

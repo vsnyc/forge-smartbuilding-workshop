@@ -5,7 +5,7 @@ weight = 1
 +++
 
 {{% notice tip %}}
-If you already have a GitHub account, you can skip this page.
+<p>If you already have a GitHub account, you can skip this page.</p>
 {{% /notice %}}
 
 1. **If you don't already have a GitHub account**: [create

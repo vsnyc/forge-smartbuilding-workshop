@@ -32,5 +32,7 @@ Follow the steps below to create a token:
 ![Copy](/images/github-copy-token.png)
 
 {{% notice warning %}}
+<p>
 Treat your tokens like passwords and keep them secret.
+</p>
 {{% /notice %}}

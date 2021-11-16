@@ -5,13 +5,17 @@ weight = 1
 +++
 
 {{% notice tip %}}
-**If you are doing this as part of a workshop using the Event Engine, you can skip this page.**
+<p><strong>
+If you are doing this as part of a workshop using the Event Engine, you can skip this page.
+</strong></p>
 {{% /notice %}}
 
 ### Clean up steps
 
 {{% notice warning %}}
+<p>
 The order below is important to remove resources cleanly.
+</p>
 {{% /notice %}}
 
 1. Go to AWS CloudFormation console in US West (N. Virginia) Region and delete the root (non-nested) stack that starts with the name *tCaT-forge-*. We had setup the CI/CD pipeline to not auto-delete the test stack to save testing time.
