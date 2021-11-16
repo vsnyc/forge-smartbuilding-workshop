@@ -65,6 +65,7 @@ weight = 1
        FORGE_CLIENT_ID  | The Forge client ID of your pre-existing Forge application
        FORGE_CLIENT_SECRET | The Forge client secret of your pre-existing Forge application
        IP_ADDRESS | You can either update it with your IP address (check at http://checkip.amazonaws.com/, e.g. "1.2.3.4\\/32") or with "0.0.0.0\\/0" to allow access from anywhere. Note the backslash for IP address value, it is required to escape it during substitution.
+![arch](/images/update-artifacts-sh.png?height=60%&width=60%)
 12. Now let's execute the following command to use the updated input values and generate a zip file containing configuration needed for our CodePipeline that we'll be creating in a few minutes.
 
     `bash update_artifacts.sh`       
