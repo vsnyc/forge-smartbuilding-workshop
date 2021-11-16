@@ -11,3 +11,5 @@ Follow [these directions](https://learnforge.autodesk.io/#/account/) to create y
 Make a note of the Client ID and Secret of your Forge app, we will need it later in the workshop.
 </p>
 {{% /notice %}}
+
+![arch](/images/forge-credentials.png?height=40%&width=40%)
