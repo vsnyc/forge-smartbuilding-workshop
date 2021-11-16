@@ -20,12 +20,12 @@ Each AWS Quick Start consists of a GitHub repo where all the contents of the Qui
 
 For this workshop, you will create a fork of the Autodesk Forge repo in your own github account.
 
-1. Using your web browser navigate to the [vsnyc/quickstart-autodesk-forge](https://github.com/vsnyc/quickstart-autodesk-forge) repository. This is a slightly modified version of the upstream [aws-quickstart/quickstart-autodesk-forge](https://github.com/aws-quickstart/quickstart-autodesk-forge) repo to assist with the workshop, but the concept stays the same in using a base repository for iterative development.  
+1. Using your web browser navigate to the [aws-quickstart/quickstart-autodesk-forge](https://github.com/aws-quickstart/quickstart-autodesk-forge) repository.
 
 2. Click **Fork** button in the top-right corner of the page.
 ![Create a fork](/images/fork-quickstart-repo.png)
 
 3. If you belong to multiple GitHub organizations, choose the **account** you would like to use for this fork.
 
-You now, have a fork of the original *vsnyc/quickstart-autodesk-forge* in your selected GitHub account.
+You now, have a fork of the original *aws-quickstart/quickstart-autodesk-forge* in your selected GitHub account.
 
