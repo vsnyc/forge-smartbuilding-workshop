@@ -8,11 +8,11 @@ weight = 30
 2. Enter the 12 digit hash provided to your team and choose **Accept Terms & Login**.
 ![arch](/images/ee-dashboard-login.png)
 3. One the next page, choose the option to sign in with your personal or corporate email address using a One-Time Password (OTP)
-![arch](/images/ee-dashboard-otp-login.png)
+![arch](/images/ee-dashboard-otp-login.png?height=40%&width=40%)
 4. On the next page, provide your email address and choose **Send passcode**.
-![arch](/images/receive-otp-email.png)   
+![arch](/images/receive-otp-email.png?height=40%&width=40%)   
 5. On the next page, input the OTP you received via email and choose **Sign in**.
-![arch](/images/submit-otp.png)   
+![arch](/images/submit-otp.png?height=40%&width=40%)   
 6. On the next page, you'll find a link to access the AWS Console and a link containing a Readme pointing to workshop instructions.
 ![arch](/images/ee-dashboard-console-link.png)
 7. Go to the AWS console using the AWS Console link in your Event Engine dashboard.
