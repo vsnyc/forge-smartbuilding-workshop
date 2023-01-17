@@ -26,10 +26,10 @@ weight = 1
    ```bash
    cd ~/environment/quickstart-autodesk-forge/packages/
    curl -O https://aws-cfn-samples.s3.amazonaws.com/forge-workshop/demo/forge-viewmodels-nodejs-aws-smartbuilding.zip
-   cd ~/environment
    ```
 6. Unzip workshop assets.
     ```bash
+    cd ~/environment
     unzip forge-workshop-assets.zip
     ```
 7. Let's take a look at the extracted files, but do not edit them yet.
