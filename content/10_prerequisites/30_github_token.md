@@ -25,7 +25,7 @@ Follow the steps below to create a token:
 ![Generate](({{< resource url="images/github-generate-token.png" >}})
 6. Give your token a descriptive name.
 7. Select the scopes, or permissions, you'd like to grant this token. For this workshop, select **repo** and **admin:repo_hook**.
-![Scope](({{< resource url="images/github-token-scope.gif)
+![Scope](({{< resource url="images/github-token-scope.gif" >}})
 8. Click **Generate token**.
 ![Generate token](({{< resource url="images/github-generate.png" >}})
 9. Copy the token to your clipboard and save it securely. For security reasons, after you navigate off the page, you will not be able to see the token again.
