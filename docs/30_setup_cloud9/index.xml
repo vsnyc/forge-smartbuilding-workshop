@@ -36,8 +36,7 @@ For this workshop, you will create a fork of the Autodesk Forge repo in your own
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vsnyc.github.io/forge-smartbuilding-workshop/30_setup_cloud9/30_ee_dashboard.html</guid>
-      <description>In a browser, go to the Event Engine dashboard page. Enter the 12 digit hash provided to your team and choose Accept Terms &amp;amp; Login. ![arch]((https://vsnyc.github.io/forge-smartbuilding-workshop/images/ee-dashboard-login.png) One the next page, choose the option to sign in with your personal or corporate email address using a One-Time Password (OTP) ![arch]((https://vsnyc.github.io/forge-smartbuilding-workshop/images/ee-dashboard-otp-login.png?height=40%&amp;amp;width=40%) On the next page, provide your email address and choose Send passcode. ![arch]((https://vsnyc.github.io/forge-smartbuilding-workshop/images/receive-otp-email.png?height=40%&amp;amp;width=40%)
- On the next page, input the OTP you received via email and choose Sign in.</description>
+      <description>In a browser, go to the Event Engine dashboard page. Enter the 12 digit hash provided to your team and choose Accept Terms &amp;amp; Login.  One the next page, choose the option to sign in with your personal or corporate email address using a One-Time Password (OTP)  On the next page, provide your email address and choose Send passcode.  On the next page, input the OTP you received via email and choose Sign in.</description>
     </item>
     
     <item>

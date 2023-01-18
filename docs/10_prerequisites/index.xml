@@ -61,7 +61,7 @@ Follow the steps below to create a token:
       
       <guid>https://vsnyc.github.io/forge-smartbuilding-workshop/10_prerequisites/40_forge_app.html</guid>
       <description>Follow these directions to create your Forge account and app. If you already have an Autodesk account, you can use that to login.
- Make a note of the Client ID and Secret of your Forge app, we will need it later in the workshop.  ![arch]((https://vsnyc.github.io/forge-smartbuilding-workshop/images/forge-credentials.png?height=40%&amp;amp;width=40%)</description>
+ Make a note of the Client ID and Secret of your Forge app, we will need it later in the workshop.  </description>
     </item>
     
   </channel>
