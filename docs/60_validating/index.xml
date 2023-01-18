@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Validating updates on AWS Quick Start Workshop</title>
@@ -16,8 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vsnyc.github.io/forge-smartbuilding-workshop/60_validating/1_validating_codepipeline.html</guid>
-      <description>Deployment options  Once the Forge-App-CICD stack reaches CREATE_COMPLETE status, go to the CodePipelineURL in the Outputs section.  The CodePipeline will sequentially execute each of the stages: Source, Test build, Git merge, Sync to S3, Prod we had talked about earlier.
- While the Test build stage is in progress, you can go to CloudFormation console in US East (N. Virginia) Region to verify a test stack is being created.</description>
+      <description>Deployment options  Once the Forge-App-CICD stack reaches CREATE_COMPLETE status, go to the CodePipelineURL in the Outputs section. ![arch]((https://vsnyc.github.io/forge-smartbuilding-workshop/images/cicd-stack-complete.png?height=60%&amp;amp;width=60%) The CodePipeline will sequentially execute each of the stages: Source, Test build, Git merge, Sync to S3, Prod we had talked about earlier.
+![arch]((https://vsnyc.github.io/forge-smartbuilding-workshop/images/build-stage-progress.png?height=60%&amp;amp;width=60%) While the Test build stage is in progress, you can go to CloudFormation console in US East (N. Virginia) Region to verify a test stack is being created.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vsnyc.github.io/forge-smartbuilding-workshop/60_validating/10_validating_code_update.html</guid>
-      <description> After you have approved the change, the CodePipeline will execute the ChangeSet. Go to the CloudFormation console, you should see Forge-Prod-Stack being updated.  In about 5 minutes, the stack will reach UPDATE_COMPLETE status.  Go to the ForgeAppURL again and verify that your application now shows a custom logo for the Forge app (Tested in Chrome browser)   </description>
+      <description> After you have approved the change, the CodePipeline will execute the ChangeSet. Go to the CloudFormation console, you should see Forge-Prod-Stack being updated. ![arch]((https://vsnyc.github.io/forge-smartbuilding-workshop/images/prod-stack-update-progress.png) In about 5 minutes, the stack will reach UPDATE_COMPLETE status. ![arch]((https://vsnyc.github.io/forge-smartbuilding-workshop/images/prod-stack-update-complete.png) Go to the ForgeAppURL again and verify that your application now shows a custom logo for the Forge app (Tested in Chrome browser) ![arch]((https://vsnyc.github.io/forge-smartbuilding-workshop/images/updated-app-with-custom-logo.png?height=60%&amp;amp;width=60%)  </description>
     </item>
     
   </channel>

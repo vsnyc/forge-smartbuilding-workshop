@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Planning the deployment on AWS Quick Start Workshop</title>
@@ -17,7 +17,8 @@
       
       <guid>https://vsnyc.github.io/forge-smartbuilding-workshop/40_planning/1_planning_deployment.html</guid>
       <description>Clone git repo in Cloud9 IDE using the following command in your terminal, replacing GITHUB_USERNAME with your GitHub user name: git clone --recursive https://github.com/YOUR_GITHUB_USERNAME/quickstart-autodesk-forge.git
-When asked for a user name and password, use your GITHUB_USERNAME and GITHUB_TOKEN that you created earlier. Now you have the Quick Start code downloaded to your IDE so you can make any changes.  To deploy the Quick Start and the CodePipeline, we need to prepare the following.</description>
+When asked for a user name and password, use your GITHUB_USERNAME and GITHUB_TOKEN that you created earlier. Now you have the Quick Start code downloaded to your IDE so you can make any changes. ![arch]((https://vsnyc.github.io/forge-smartbuilding-workshop/images/clone-quick-start.png)
+ To deploy the Quick Start and the CodePipeline, we need to prepare the following.</description>
     </item>
     
     <item>
