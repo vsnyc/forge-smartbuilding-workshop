@@ -9,7 +9,7 @@ weight = 1
     
     When asked for a user name and password, use your `GITHUB_USERNAME` and `GITHUB_TOKEN` that you created earlier.
     Now you have the Quick Start code downloaded to your IDE so you can make any changes.
-    ![arch](({{< resource url="images/clone-quick-start.png" >}})
+    ![arch]({{< resource url="images/clone-quick-start.png" >}})
 2. To deploy the Quick Start and the CodePipeline, we need to prepare the following.
    1. One Amazon S3 bucket: one S3 bucket located in your deployment AWS Region (US West (Oregon)) that will host your configuration parameters and Quick Start production code.
    2. CloudFormation input configuration parameters for your Forge production stack, the formats differ slightly when the deployment is done directly using AWS CloudFormation vs. when triggered using AWS CodePipeline, so we'll prepare two versions of the file.
@@ -65,7 +65,7 @@ weight = 1
        FORGE_CLIENT_ID  | The Forge client ID of your pre-existing Forge application
        FORGE_CLIENT_SECRET | The Forge client secret of your pre-existing Forge application
        IP_ADDRESS | You can either update it with your IP address (check at http://checkip.amazonaws.com/, e.g. "1.2.3.4\\/32") or with "0.0.0.0\\/0" to allow access from anywhere. Note the backslash for IP address value, it is required to escape it during substitution.
-![arch](({{< resource url="images/update-artifacts-sh.png?height=60%&width=60%" >}})
+![arch]({{< resource url="images/update-artifacts-sh.png?height=60%&width=60%" >}})
 12. Now let's execute the following command to use the updated input values and generate a zip file containing configuration needed for our CodePipeline that we'll be creating in a few minutes.
 
     `bash update_artifacts.sh`       

@@ -27,4 +27,4 @@ The launch link above launches a slightly modified version of the <a href="https
 {{% /notice %}}
 
 3. Select both the check boxes in the Capabilities section and choose **Create Stack**. After the `Forge-App-CICD` stack is created, it will automatically execute the CodePipeline. 
-![arch](({{< resource url="images/create-cicd-stack.png?height=60%&width=60%" >}})
+![arch]({{< resource url="images/create-cicd-stack.png?height=60%&width=60%" >}})

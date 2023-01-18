@@ -16,20 +16,20 @@ Follow the steps below to create a token:
 
 1. Verify your email address, if it hasn't been verified yet.
 2. In the upper-right corner of any page, click your profile photo, then click **Settings**.
-![Settings](({{< resource url="images/github-settings.png" >}})
+![Settings]({{< resource url="images/github-settings.png" >}})
 3. In the left sidebar, click **Developer settings**.
-![Developer Settings](({{< resource url="images/github-devsettings.png" >}})
+![Developer Settings]({{< resource url="images/github-devsettings.png" >}})
 4. In the left sidebar, click **Personal access tokens**.
-![Personal access](({{< resource url="images/github-personal-access.png" >}})
+![Personal access]({{< resource url="images/github-personal-access.png" >}})
 5. Click **Generate new token**.
-![Generate](({{< resource url="images/github-generate-token.png" >}})
+![Generate]({{< resource url="images/github-generate-token.png" >}})
 6. Give your token a descriptive name.
 7. Select the scopes, or permissions, you'd like to grant this token. For this workshop, select **repo** and **admin:repo_hook**.
-![Scope](({{< resource url="images/github-token-scope.gif" >}})
+![Scope]({{< resource url="images/github-token-scope.gif" >}})
 8. Click **Generate token**.
-![Generate token](({{< resource url="images/github-generate.png" >}})
+![Generate token]({{< resource url="images/github-generate.png" >}})
 9. Copy the token to your clipboard and save it securely. For security reasons, after you navigate off the page, you will not be able to see the token again.
-![Copy](({{< resource url="images/github-copy-token.png" >}})
+![Copy]({{< resource url="images/github-copy-token.png" >}})
 
 {{% notice warning %}}
 <p>
