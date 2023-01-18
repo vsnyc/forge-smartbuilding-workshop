@@ -1,4 +1,4 @@
-baseURL = "http://forge-devcon-workshop.s3-website.us-east-2.amazonaws.com"
+baseURL = "https://vsnyc.github.io/forge-smartbuilding-workshop/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "AWS Quick Start Workshop"
@@ -25,6 +25,8 @@ disableSearch = false
 disableAssetsBusting = false
 disableLanguageSwitchingButton = true
 disableShortcutsTitle=true
+
+enableInlineShortcodes = true
 
 [markup]
   defaultMarkdownHandler = "blackfriday"
