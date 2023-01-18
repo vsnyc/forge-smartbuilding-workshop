@@ -1,10 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on AWS Quick Start Workshop</title>
-    <link>http://forge-devcon-workshop.s3-website.us-east-2.amazonaws.com/categories.html</link>
+    <link>https://vsnyc.github.io/forge-smartbuilding-workshop/categories.html</link>
     <description>Recent content in Categories on AWS Quick Start Workshop</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://forge-devcon-workshop.s3-website.us-east-2.amazonaws.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://vsnyc.github.io/forge-smartbuilding-workshop/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
