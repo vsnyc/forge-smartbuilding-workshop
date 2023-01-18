@@ -7,7 +7,7 @@ weight = 30
 ### CI/CD Pipeline Architecture
 Here's the architecture of the CodePipeline we will build:
 
-![arch](/images/forge-cicd-taskcat-pipeline.png)
+![arch](({{< resource url="images/forge-cicd-taskcat-pipeline.png" >}})
 
 This architecture contains following components:
 

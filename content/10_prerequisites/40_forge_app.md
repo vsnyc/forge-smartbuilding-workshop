@@ -12,4 +12,4 @@ Make a note of the Client ID and Secret of your Forge app, we will need it later
 </p>
 {{% /notice %}}
 
-![arch](/images/forge-credentials.png?height=40%&width=40%)
+![arch](({{< resource url="images/forge-credentials.png?height=40%&width=40%" >}})

@@ -23,7 +23,7 @@ For this workshop, you will create a fork of the Autodesk Forge repo in your own
 1. Using your web browser navigate to the [aws-quickstart/quickstart-autodesk-forge](https://github.com/aws-quickstart/quickstart-autodesk-forge) repository.
 
 2. Click **Fork** button in the top-right corner of the page.
-![Create a fork](/images/fork-quickstart-repo.png)
+![Create a fork](({{< resource url="images/fork-quickstart-repo.png" >}})
 
 3. If you belong to multiple GitHub organizations, choose the **account** you would like to use for this fork.
 

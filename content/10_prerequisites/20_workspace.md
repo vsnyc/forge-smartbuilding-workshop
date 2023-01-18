@@ -38,10 +38,10 @@ the cloud9 domain, otherwise connecting to the workspace might be impacted.
 
 When the environment comes up, customize the layout by closing the **welcome tab**
 and **lower work area**, and opening a new **terminal** tab in the main work area:
-![c9before](/images/c9before.png)
+![c9before](({{< resource url="images/c9before.png" >}})
 
 Your workspace should now look like this:
-![c9after](/images/c9after.png)
+![c9after](({{< resource url="images/c9after.png" >}})
 
 If you like this theme, you can choose it yourself by selecting **View / Themes / Solarized / Solarized Dark**
 in the Cloud9 workspace menu.

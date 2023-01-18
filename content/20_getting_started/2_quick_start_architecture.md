@@ -7,7 +7,7 @@ weight = 20
 ### AWS Quick Start Architecture
 Here's the architecture of what we will build:
 
-![arch](/images/autodesk-forge-on-aws-arch.png)
+![arch](({{< resource url="images/autodesk-forge-on-aws-arch.png" >}})
 
 This architecture contains following components:
 
